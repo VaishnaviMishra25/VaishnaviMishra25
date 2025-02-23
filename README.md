@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Mishra</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
+- 🔭 I’m currently working on **Spotify Clone**
+
+- 🌱 I’m currently learning **Machine learning**
+
 - 📫 How to reach me **mishravaishnavi211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
