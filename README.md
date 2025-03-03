@@ -10,7 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-mishra-880b24253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-mishra-880b24253/" height="30" width="40" /></a>
+<a href="https://kaggle.com/vaishnavi_mishra_025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnavi_mishra_025" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vaishnavi_mishr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaishnavi_mishr6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaishnavi_2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavi_2505" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
