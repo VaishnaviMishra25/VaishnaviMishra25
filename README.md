@@ -1,5 +1,5 @@
 # 💫 About Me:
-A research project on Fault Detection in Machines <br>Full-stack web applications that integrate real-time location services<br>Machine Learning & Deep Learning<br>Data Analysis using Python, Pandas, NumPy, and SQL<br>I once built a sign language to speech converter using an ESP32-CAM and machine learning—now even my microcontroller can talk more than I do at networking events! 😄<br><br>
+A research project on Fault Detection in Machines <br\n>Full-stack web applications that integrate real-time location services<br>Machine Learning & Deep Learning<br>Data Analysis using Python, Pandas, NumPy, and SQL<br>I once built a sign language to speech converter using an ESP32-CAM and machine learning—now even my microcontroller can talk more than I do at networking events! 😄<br><br>
 
 
 ## 🌐 Socials:
